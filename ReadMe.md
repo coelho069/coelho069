@@ -1,40 +1,28 @@
-# 💫 About Me:
-⚡ php
+<center>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateus7__1) 
+# Perfil de coelho069
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+Olá, eu sou coelho069! 👋
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coelho069&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coelho069&theme=radical&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelho069&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
+## Sobre Mim
+Sou um entusiasta da tecnologia e um desenvolvedor web em constante aprendizado. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e aprimorar minhas habilidades. Sou apaixonado por criar soluções inovadoras e eficientes que impactem positivamente as pessoas e a comunidade.
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coelho069&theme=algolia&no-frame=false&no-bg=false&margin-w=4">
-</p>
+</center>
+"É mais fácil odiar  milionário do que odiar o governo"
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
-</p>
+![Estatísticas do GitHub de coelho069](https://github-readme-stats.vercel.app/api?username=coelho069&show_icons=true&theme=radical)   
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=coelho069&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>
+## Habilidades
+- **Linguagens de Programação**: PHP, JavaScript
+- **Bancos de Dados**: MySQL
 
-### 😂 Random Dev Meme
-<p align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
+## Projetos Destacados
+- breve
 
----
-[![](https://visitcount.itsvg.in/api?id=coelho069&icon=0&color=0)](https://visitcount.itsvg.in)
+## Contato
+- GitHub: [coelho069](https://github.com/coelho069)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Sinta-se à vontade para entrar em contato comigo para discussões técnicas, oportunidades de colaboração ou apenas para trocar ideias sobre desenvolvimento web e tecnologia. Vamos construir algo incrível juntos!
+
+![Contribuições nos Últimos 12 Meses - Estilo Detalhado Avançado](https://github-readme-streak-stats.herokuapp.com/?user=coelho069&theme=holi-theme&hide_border=true&background=0d1117&stroke=00DDC0&ring=DD2727&fire=DD2C2C&currStreakLabel=00DDC0&sideLabels=00DDC0&dates=DDDDDD&currStreakNum=00DDC0&sideNums=DDDDDD&border=DDDDDD)
