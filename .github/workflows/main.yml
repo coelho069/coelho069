@@ -24,19 +24,20 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
-      # Gera o SVG de animação do gráfico de contribuições
+      # Gera o SVG de animação do gráfico de contribuições com fundo preto
       - name: Generate GitHub Contribution Snake Animation SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
+          color_snake: "#ffffff"               # Cor da snake em branco
+          color_dots: "#000000, #39d353"       # Fundo preto e dots verdes (personalize conforme necessário)
 
-      # Publica o SVG gerado na branch de saída, criando a branch se necessário
+      # Publica o SVG gerado na branch de saída
       - name: Deploy SVG to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           publish_dir: dist
           publish_branch: output
-          cname: ""  # Defina o CNAME se precisar de um domínio personalizado
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
