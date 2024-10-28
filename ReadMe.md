@@ -23,4 +23,10 @@ Sou um entusiasta da tecnologia e um desenvolvedor web em constante aprendizado.
 
 Sinta-se à vontade para entrar em contato comigo para discussões técnicas, oportunidades de colaboração ou apenas para trocar ideias sobre desenvolvimento web e tecnologia. Vamos construir algo incrível juntos!
 
-![Contribuições nos Últimos 12 Meses - Estilo Detalhado Avançado](https://github-readme-streak-stats.herokuapp.com/?user=coelho069&theme=holi-theme&hide_border=true&background=0d1117&stroke=00DDC0&ring=DD2727&fire=DD2C2C&currStreakLabel=00DDC0&sideLabels=00DDC0&dates=DDDDDD&currStreakNum=00DDC0&sideNums=DDDDDD&border=DDDDDD)
+![Contribuições nos Últimos 12 Meses - Estilo Detalhado Avançado](https://github-readme-streak-stats.herokuapp.com/?user=coelho069&theme=holi-
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
