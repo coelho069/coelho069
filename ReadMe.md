@@ -9,8 +9,7 @@ Sou um entusiasta da tecnologia e um desenvolvedor web em constante aprendizado.
 https://wakatime.com/badge/user/018d844c-cc63-4961-8411-289bad8810bf/project/05a84e22-99c0-4c75-b1c7-dab8abb405d4.svg
 </center>
 
-![Estatísticas do GitHub de coelho069](https://github-readme-stats.vercel.app/api?username=coelho069&show_icons=true&theme=radical)   
-
+https://wakatime.com/@R_Miranda/projects/wxpoaauyuo?start=2025-02-14&end=2025-02-20
 ## Habilidades
 - **Linguagens de Programação**: PHP, JavaScript
 - **Bancos de Dados**: MySQL
