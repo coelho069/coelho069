@@ -6,10 +6,12 @@ Olá, eu sou luiz mateus 👋
 Sou um entusiasta da tecnologia e um desenvolvedor web em constante aprendizado. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e aprimorar minhas habilidades. Sou apaixonado por criar soluções inovadoras e eficientes que impactem positivamente as pessoas e a comunidade.
 
 
-https://wakatime.com/badge/user/018d844c-cc63-4961-8411-289bad8810bf/project/05a84e22-99c0-4c75-b1c7-dab8abb405d4.svg
 </center>
 
-https://wakatime.com/@R_Miranda/projects/wxpoaauyuo?start=2025-02-14&end=2025-02-20
+
+<embed src="https://wakatime.com/share/@R_Miranda/c593be1a-f677-4fd4-9900-d034a60794db.svg"></embed>
+
+[![wakatime](https://wakatime.com/badge/user/018d844c-cc63-4961-8411-289bad8810bf/project/05a84e22-99c0-4c75-b1c7-dab8abb405d4.svg)](https://wakatime.com/badge/user/018d844c-cc63-4961-8411-289bad8810bf/project/05a84e22-99c0-4c75-b1c7-dab8abb405d4)
 ## Habilidades
 - **Linguagens de Programação**: PHP, JavaScript
 - **Bancos de Dados**: MySQL
