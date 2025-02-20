@@ -5,8 +5,9 @@ Olá, eu sou luiz mateus 👋
 ## Sobre Mim
 Sou um entusiasta da tecnologia e um desenvolvedor web em constante aprendizado. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e aprimorar minhas habilidades. Sou apaixonado por criar soluções inovadoras e eficientes que impactem positivamente as pessoas e a comunidade.
 
+
+https://wakatime.com/badge/user/018d844c-cc63-4961-8411-289bad8810bf/project/05a84e22-99c0-4c75-b1c7-dab8abb405d4.svg
 </center>
-"É mais fácil odiar  milionário do que odiar o governo"
 
 ![Estatísticas do GitHub de coelho069](https://github-readme-stats.vercel.app/api?username=coelho069&show_icons=true&theme=radical)   
 
