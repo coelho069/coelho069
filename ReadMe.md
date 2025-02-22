@@ -11,7 +11,7 @@ Sou um entusiasta da tecnologia e um desenvolvedor web em constante aprendizado.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-[![wakatime](https://wakatime.com/badge/user/018d844c-cc63-4961-8411-289bad8810bf/project/05a84e22-99c0-4c75-b1c7-dab8abb405d4.svg)](https://wakatime.com/badge/user/018d844c-cc63-4961-8411-289bad8810bf/project/05a84e22-99c0-4c75-b1c7-dab8abb405d4)
+[![wakatime](https://wakatime.com/badge/user/018d844c-cc63-4961-8411-289bad8810bf/project/0feb4361-54ec-4c0a-9f67-6b430f174026.svg)](https://wakatime.com/badge/user/018d844c-cc63-4961-8411-289bad8810bf/project/0feb4361-54ec-4c0a-9f67-6b430f174026)
 ## Habilidades
 - **Linguagens de Programação**: PHP, JavaScript
 - **Bancos de Dados**: MySQL
