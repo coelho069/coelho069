@@ -17,8 +17,3 @@ Sou um entusiasta da tecnologia e um desenvolvedor web em constante aprendizado.
 ## Contato
 - GitHub: [coelho069](https://github.com/coelho069)
 
-Contribuições nos Últimos 12 Meses - Estilo Detalhado Avançado
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coelho069/coelho069/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coelho069/coelho069/output/github-snake.svg" />
